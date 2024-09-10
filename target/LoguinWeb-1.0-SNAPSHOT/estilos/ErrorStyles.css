@@ -1,0 +1,28 @@
+*{
+    font-family: "Montserrat", sans-serif;
+}
+
+body{
+    
+  
+    justify-content: center;
+    display: flex;
+    
+}
+
+div{
+    justify-content: center;
+    display: block;
+}
+h1{
+    text-align: center;
+}
+img{
+    justify-content: center;
+    height: 300px;
+    width: 300px;
+}
+p{
+    text-align: center;
+    padding: 10px;
+}
